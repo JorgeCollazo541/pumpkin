@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(135deg, rgb(54, 54, 54),rgb(39, 39, 39), black)fixed;
+}
+nav{
+    background: linear-gradient(90deg, orange, black);
+}
+span{
+    background: white;
+}
